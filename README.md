@@ -1,4 +1,4 @@
-# Analysis Post-University Salaries of Graduates by Major 
+# Analysis of Post-University Salaries of Graduates by Major 
 
 ## Table of Content
 
